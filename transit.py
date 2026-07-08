@@ -44,10 +44,10 @@ groups=[]
 transit=[]
 for number in transit_indices:
 	if not transit or number==transit[-1]+1:
-	   transit.append(number)
+		transit.append(number)
 	else:
 		if len(transit)>=3:
-		groups.append(transit)
+			group.append(transit)
 		transit=[number]
 
 if len(current)>=3:
