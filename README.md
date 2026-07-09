@@ -50,3 +50,5 @@ Using the measured transit depth, the planet's radius can be estimated.
 This project was created as a part of my journey of learning Python and exploring the intersection of programming and astronomical research. Feedback and suggestions are always welcome!
 
 If you find this project interesting, consider giving it a star!!
+
+~Anahita Dua
