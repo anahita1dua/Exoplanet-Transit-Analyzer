@@ -1,4 +1,4 @@
-### Exoplanet Transit Detector
+# Exoplanet Transit Detector
 
 A Python-based tool for detecting and analyzing exoplanet transits from astronomical light curve data. The project identifies periodic brightness dips caused by planets passing in front of their host stars and estimates key planetary parameters.
 
